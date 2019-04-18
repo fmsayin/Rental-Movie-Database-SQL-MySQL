@@ -1,4 +1,4 @@
-### SQL And MySQL 
+### Rental-Movie-Database-SQL-MySQL
 
 
 ### Part-1 SQL
