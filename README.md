@@ -1,4 +1,4 @@
-### SQL using MySQL__Sakila DataBase
+### SQL And MySQL 
 
 
 ### Part-1 SQL
